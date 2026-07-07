@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender novas ferramentas
 
 Atualmente estou estudando:
 
-- ☕ Java
+- ☕ Flutter
 - 🌐 Desenvolvimento Web
 - 🗄️ Banco de Dados
 - 🐍 Python
