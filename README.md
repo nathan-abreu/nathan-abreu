@@ -25,25 +25,6 @@ Estou utilizando o GitHub para compartilhar meus projetos, acompanhar minha evol
         />
     </a>
 
-<a href="https://github.com/SEUUSUARIO?tab=repositories">
-        <img
-            alt="Repositórios"
-            title="Meus Projetos"
-            src="https://custom-icon-badges.demolab.com/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github"
-        />
-    </a>
-
-<a href="mailto:SEUEMAIL">
-        <img
-            alt="Email"
-            title="Entre em contato"
-            src="https://custom-icon-badges.demolab.com/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 # 🚀 Tecnologias
 
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -64,19 +45,3 @@ Estou utilizando o GitHub para compartilhar meus projetos, acompanhar minha evol
 
 <br>
 <br>
-
-# 📊 Estatísticas
-
-<p>
-<img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
-
-<img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&langs_count=8"
-/>
-</p>
